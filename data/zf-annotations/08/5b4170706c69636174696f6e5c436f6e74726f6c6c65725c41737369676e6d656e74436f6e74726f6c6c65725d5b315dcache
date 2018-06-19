@@ -1,0 +1,2 @@
+0
+a:2:{i:0;O:34:"ZfAnnotation\Annotation\Controller":7:{s:14:"serviceManager";s:11:"controllers";s:4:"name";N;s:4:"type";s:9:"invokable";s:6:"shared";N;s:7:"aliases";a:0:{}s:3:"for";N;s:12:"factoryClass";N;}i:1;O:29:"ZfAnnotation\Annotation\Route":8:{s:4:"name";s:10:"assignment";s:4:"type";N;s:5:"route";s:11:"/assignment";s:8:"defaults";N;s:11:"constraints";N;s:12:"mayTerminate";b:1;s:7:"extends";N;s:8:"priority";i:0;}}
